@@ -1,0 +1,8 @@
+fiz o tutorial 2 até 
+
+.\virtenv\Scripts\activate.bat
+
+Passo 2: Criando seu projeto em Django
+2.1) Certifique-se de que você está dentro do diretório “Tutorial_02” e o ambiente virtual
+ativado. Agora, digite o comando abaixo para criar um projeto.
+(virtenv) $ django-admin startproject website .
